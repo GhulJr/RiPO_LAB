@@ -1,0 +1,80 @@
+  item {
+      id: 1
+      name: 'ball'
+  }
+   item {
+      id: 2
+      name: 'bench'
+  }
+ item {
+      id: 3
+      name: 'bicycle'
+  }
+item {
+      id: 4
+      name: 'boat'
+  }
+ item {
+      id: 5
+      name: 'cake'
+  }
+ item {
+      id: 6
+      name: 'can'
+  }
+   item {
+      id: 7
+      name: 'car'
+  }
+item {
+      id: 8
+      name: 'card'
+  }
+item {
+      id: 9
+      name: 'chair'
+  }
+ item {
+      id: 10
+      name: 'clock'
+  }
+ item {
+      id: 11
+      name: 'door'
+  }
+ item {
+      id: 12
+      name: 'house'
+  }
+ item {
+      id: 13
+      name: 'motorcycle'
+  }
+ item {
+      id: 14
+      name: 'mug'
+  }
+   item {
+      id: 15
+      name: 'plate'
+  }
+   item {
+      id: 16
+      name: 'present'
+  }
+   item {
+      id: 17
+      name: 'sign'
+  }
+   item {
+      id: 18
+      name: 'tree'
+  }
+   item {
+      id: 19
+      name: 'window'
+  }
+   item {
+      id: 20
+      name: 'balloon'
+  }
